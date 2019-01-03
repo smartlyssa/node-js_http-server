@@ -1,0 +1,19 @@
+{
+  "name": "node-js_http-server",
+  "version": "1.0.0",
+  "description": "janky http server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartlyssa/node-js_http-server.git"
+  },
+  "author": "Lyssa Jurado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartlyssa/node-js_http-server/issues"
+  },
+  "homepage": "https://github.com/smartlyssa/node-js_http-server#readme"
+}
